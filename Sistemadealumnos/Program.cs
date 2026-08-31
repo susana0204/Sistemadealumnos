@@ -18,4 +18,4 @@ Console.WriteLine(alumno2.Legajo);
 
 alumno1.Nombre = "Franco";
 Console.WriteLine(alumno1.Nombre);
-Console.WriteLine(alumno2.Nombre);//Etapa 1 — La primera clase - test
+Console.WriteLine(alumno2.Nombre);//Etapa 1 — La primera clase - test 2
