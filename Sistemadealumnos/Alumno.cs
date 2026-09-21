@@ -40,5 +40,10 @@ public class Alumno
          Nota2 = 10;
       }
    }
-   
+
+   public override string ToString()
+   {
+      return $"{Nombre}-{Legajo}-{Promedio()}";
+      return base.ToString();
+   }
 }

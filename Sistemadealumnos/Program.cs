@@ -31,3 +31,4 @@ Alumno alumnoTope = new Alumno("FRANCO", 112, nota1:8.9m, 9.5m);
 alumnoTope.SubirNota();
 Console.WriteLine($"{alumnoTope.Nombre} - Nota1: {alumnoTope.Nota1} - Nota2: {alumnoTope.Nota2}");
 
+
